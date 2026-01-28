@@ -66,10 +66,22 @@ Niche Score (0-100) = Demand Score + Competition Score + Opportunity Score
 | Документ | Описание |
 |----------|----------|
 | [technical.md](./technical.md) | Технический стек, архитектура, база данных |
+| [caching.md](./caching.md) | Стратегия кэширования, экономия 80% на API |
+| [audience.md](./audience.md) | Целевая аудитория, боли, где общаются |
 | [budget.md](./budget.md) | Бюджет $500, затраты, финансовые прогнозы |
 | [marketing.md](./marketing.md) | Маркетинговая стратегия, каналы, тактики |
 | [competitors.md](./competitors.md) | Анализ конкурентов, позиционирование |
 | [risks.md](./risks.md) | Риски и митигация |
+
+### Анализ конкурентов (детальный)
+
+| Документ | Описание |
+|----------|----------|
+| [../competitors/overview.md](../competitors/overview.md) | Сводный анализ всех конкурентов |
+| [../competitors/publisher-rocket.md](../competitors/publisher-rocket.md) | Publisher Rocket — $120K/мес, Dave Chesson |
+| [../competitors/book-bolt.md](../competitors/book-bolt.md) | Book Bolt — low-content фокус |
+| [../competitors/kdspy.md](../competitors/kdspy.md) | KDSPY — 65K+ клиентов |
+| [../competitors/bookbeam.md](../competitors/bookbeam.md) | BookBeam — AI features |
 
 ## Ключевые Метрики (6 месяцев)
 
